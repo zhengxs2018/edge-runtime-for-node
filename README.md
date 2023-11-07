@@ -14,7 +14,7 @@ $ yarn dev
 
 ## 示例代码
 
-模拟 [Deno.serve()](https://docs.deno.com/runtime/tutorials/http_server) API
+模拟 [Deno.serve( )](https://docs.deno.com/runtime/tutorials/http_server) API
 
 ```ts
 import EdgeRuntime from "./edge-runtime";
